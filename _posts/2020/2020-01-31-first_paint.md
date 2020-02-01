@@ -7,4 +7,4 @@ no-post-nav: true
 excerpt: 日志
 ---
 宇伟画的第一幅油画！
-![](http://favorites.ren/assets/images/2020/it/first_paint.jpg)
+![](http://favorites.ren/assets/images/2020/life/first_paint.jpg)
