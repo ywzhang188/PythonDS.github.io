@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:  赵梓杉大美女！
-subtitle: 赵梓杉：没有什么是完美的。。。除了我自己
+title:  赵梓杉的博客
+subtitle: 知识的追随者！
 name: 赵梓杉 
 email: 
-description: 本站是zhao zishan的分享博客-吃喝玩乐！样样精通！
-keywords: 吃！喝！玩！乐！
+description: 本站是zhao zishan的分享博客-Python学起来！
+keywords: Python, 数据分析, 数据科学
 encoding: "utf-8"
 favicon: favicon.ico 
 
@@ -54,38 +54,7 @@ paginate_path: 'page:num'
 
 # Navigation. top menu list
 menus:
-
-
   -
-    href: /spring-cloud.html
-    label: SCloud
-    target: _self
-
-  -
-    href: /it.html
-    label: 深度
-    target: _self
-
-  -
-    href: /money.html
-    label: 挣钱
-    target: _self   
-
-  -
-    href: /life.html
-    label: 故事
-    target: _self
-
-  -
-    href: /arch.html
-    label: 架构
-    target: _self
-
-  -
-    href: /link.html
-    label: 友链
-    target: _self
-
   -
     href: /about.html
     label: 关于
@@ -98,89 +67,11 @@ navs:
     href: /
     label: Home
 
-  -
-    href: /cartoon.html
-    label: 漫画
-    target: _self
-
-  -
-    href: /spring-boot.html
-    label: Spring Boot
-    target: _self
-    subnav:
-
-      -
-        subHref: /spring-boot.html
-        subLabel: Spring Boot
-
-      -
-        subHref: /spring-cloud.html
-        subLabel: Spring Cloud
-
-  -
-    href: http://www.justdojava.com
-    label: Java
-    target: _blank
-    subnav:
-
-      -
-        subHref: /java.html
-        subLabel: Jvm 系列文章
-        
-      -
-        subHref: http://www.justdojava.com
-        subLabel: Java 极客技术
-        target: _blank
-
-  -
-    
-    href: /python.html
-    label: Python
-    subnav:
-
-      -
-        subHref: /python.html
-        subLabel: Python 教程
-        
-      -
-        subHref: http://www.justdopython.com
-        subLabel: Python 技术
-        target: _blank
-
-  -
-    href: /archives.html
-    label: Archives
-    target: _self
 
 
 
 # labels. my blog key words
 labels:
-
-  -
-    href: /payment.html
-    label: Pay     
-    target: _self
-
-  -
-    href: /fastdfs.html
-    label: FastDFS
-    target: _blank
-
-  -
-    href: /mongodb.html
-    label: MongoDB
-    target: _blank
-
-  -
-    href: /docker.html
-    label: Docker
-    target: _blank
-
-  -
-    href: /open-source.html
-    label: Code  
-    target: _blank
 
   -
     href: /gitchat.html
@@ -193,18 +84,8 @@ classes:
 
   -
     href: /cartoon.html
-    name: 不会笑青年
-    describe: 内心沉稳 ，放荡不羁。
-
-  -
-    href: /life.html
-    name: 我的故事
-    describe: 生活就是故事，故事就是生活
-
-  -
-    href: /it.html
-    name: IT行业深度报道
-    describe: IT大佬，互联网知名公司的故事
+    name: python达人-小溪
+    describe: 看似内心沉稳 ，实则放荡不羁。
 
 
 
