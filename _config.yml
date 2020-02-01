@@ -79,17 +79,6 @@ labels:
     target: _blank
 
 
-# selected articles
-classes:
-
-  -
-    href: /cartoon.html
-    name: python达人-小溪
-    describe: 扶我起来，我还能学！
-
-
-
-
 # ---------------- #
 #       RSS        #
 # ---------------- #
