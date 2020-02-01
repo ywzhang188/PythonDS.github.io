@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 彻底理解copy和deepcopy的区别
-category: money
-tags: [money]
+category: python
+tags: [python]
 no-post-nav: true
-excerpt: 开熏
+excerpt: python
 ---
 开年第一篇博客，数据科学搞起来！
 这篇文章想换个角度了解下copy和deepcopy的区别是什么，应用于List以及Ndarray的copy和deepcopy的案例整理了一下，希望能使思路更加清晰。
