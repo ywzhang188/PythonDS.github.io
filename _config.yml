@@ -55,18 +55,13 @@ paginate_path: 'page:num'
 # Navigation. top menu list
 menus:
 
-
-  -
-    href: /python.html
-    label: python
-    target: _self
-
   -
     href: /life.html
     label: 生活点滴
     target: _self
 
-  - href: /about.html
+  -
+    href: /about.html
     label: 关于
     target: _self
 
@@ -77,6 +72,11 @@ navs:
     href: /
     label: Home
 
+
+  -
+    href: /python.html
+    label: Python
+    target: _self
 
 
 

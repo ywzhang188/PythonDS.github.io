@@ -2,9 +2,7 @@
 layout: post
 title: 比较random和numpy.random
 category: python
-tags: [python]
-no-post-nav: true
-excerpt: python
+copyright: python
 ---
 
 在Python中，使用Random方法有random.rand(), random.random(), random.randn()等几种用法，这篇文章整理下他们的区别：
