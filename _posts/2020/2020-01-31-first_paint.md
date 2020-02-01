@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 记录生活中的美好
-category: money
-tags: [money]
+category: life
+tags: [life]
 no-post-nav: true
 excerpt: 日志
 ---
