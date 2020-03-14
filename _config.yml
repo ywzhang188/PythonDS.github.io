@@ -6,19 +6,18 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:  赵梓杉的博客
-subtitle: 知识的追随者！
-name: 赵梓杉的官方网站
+title:  张成东的书法博客
+name: 张成东的官方网站
 email: 
-description: 本站是zhao zishan的分享博客-Python学起来！
-keywords: Python, 数据分析, 数据科学
+description: 书法是一门艺术！
+keywords: 书法，生活
 encoding: "utf-8"
 favicon: favicon.ico 
 
 repository: PythonDS/PythonDS.github.io
 github_url: https://github.com/PythonDS
-url: http://www.zhaozishan.com
-enforce_ssl: zhaozishan.com
+url: http://www.zhangchengdong.site
+enforce_ssl: zhangchengdong.site
 
 ## Gem
 plugins:
@@ -62,7 +61,7 @@ menus:
 
   -
     href: /about.html
-    label: 关于
+    label: 关于我
     target: _self
 
 # Navigation. main menu list
@@ -74,8 +73,8 @@ navs:
 
 
   -
-    href: /python.html
-    label: Python
+    href: /shufa.html
+    label: 书法
     target: _self
 
 
