@@ -8,14 +8,14 @@
 # Site settings
 title:  张成东的书法博客
 name: 张成东的官方网站
-email: 
+email:
 description: 书法是一门艺术！
 keywords: 书法，生活
 encoding: "utf-8"
-favicon: favicon.ico 
+favicon: favicon.ico
 
-repository: PythonDS/PythonDS.github.io
-github_url: https://github.com/PythonDS
+repository: ywzhang188/ywzhang188.github.io
+github_url: https://github.com/ywzhang188
 url: http://www.zhangchengdong.site
 enforce_ssl: zhangchengdong.site
 
@@ -91,17 +91,3 @@ subscribe_rss: /feed.xml
 
 # Sidebar to show popular repo
 side_bar_repo_limit: 6 # Number of repos to show
-
-# Google Analytics
-# analytics :
-# provider : google
-#   google :
-#     tracking_id : ''  # ex. UA-72165600-X
-
-
-# For about.html. Fell free to create your own!
-skill_software_keywords: [Java, MySQL, Oracle, Design Patterns]
-skill_j2ee_keywords: [Spring, Struct, Hibernet, MyBatis, JSP]
-skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, NodeJS, ExpressJS, MongoDB, Redis, PHP,  Boostrap]
-skill_mobile_app_keywords: [vuejs, hyhird app]
-
