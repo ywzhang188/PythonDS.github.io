@@ -77,6 +77,10 @@ navs:
     label: 书法
     target: _self
 
+  - href: /python.html
+    label: Python
+    target: _self
+
 
 
 # labels. my blog key words
