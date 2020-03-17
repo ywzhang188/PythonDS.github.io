@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 测试
-category: shufa
-copyright: shufa
+category: python
+copyright: python
 ---
 
 测试
