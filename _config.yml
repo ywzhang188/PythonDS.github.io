@@ -73,12 +73,8 @@ navs:
 
 
   -
-    href: /shufa.html
+    href: /handwriting.html
     label: 书法
-    target: _self
-
-  - href: /python.html
-    label: Python
     target: _self
 
 
