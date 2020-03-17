@@ -1,6 +1,6 @@
 # 个人博客
 
-这是我的个人书法博客，里面会记录生活和技术的点点滴滴。
+这是我的个人书法博客，欢迎大家访问！
 
 
 访问地址：[http://www.zhangchengdong.site/](http://www.zhangchengdong.site/)
